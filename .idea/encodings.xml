@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true">
+    <file url="file://$PROJECT_DIR$" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/core.game/Game.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/core.game/GameResult.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/core.game/Referee.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/core.match/GameEvent.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/core.match/Match.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/g10/AI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/stage1/AI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/stage1/BoardMaster.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/stage1/MoveMaster.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/stage1/Node.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/stage1/Road.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/stage1/RoadList.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/stage1/RoadTable.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/stage2/AI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/stage2/AI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/stage2/BoardMaster.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/stage2/G09Board.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/stage2/G09Move.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/stage2/MoveMaster.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/stage2/RoadList.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/stage2/RoadTable.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/stage3/AI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/stage3/BoardMaster.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/stage3/MoveMaster.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/stage3/Node.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/stage3/Road.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/stage3/RoadList.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/stage3/RoadTable.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ui/UploadJar.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
